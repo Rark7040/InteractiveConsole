@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Cs\InteractiveConsole\bin\Debug\net5.0\InteractiveConsole.exe
+C:\Users\User\Desktop\Cs\InteractiveConsole\bin\Debug\net5.0\InteractiveConsole.deps.json
+C:\Users\User\Desktop\Cs\InteractiveConsole\bin\Debug\net5.0\InteractiveConsole.runtimeconfig.json
+C:\Users\User\Desktop\Cs\InteractiveConsole\bin\Debug\net5.0\InteractiveConsole.runtimeconfig.dev.json
+C:\Users\User\Desktop\Cs\InteractiveConsole\bin\Debug\net5.0\InteractiveConsole.dll
+C:\Users\User\Desktop\Cs\InteractiveConsole\bin\Debug\net5.0\ref\InteractiveConsole.dll
+C:\Users\User\Desktop\Cs\InteractiveConsole\bin\Debug\net5.0\InteractiveConsole.pdb
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\InteractiveConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\InteractiveConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\InteractiveConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\InteractiveConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\InteractiveConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\InteractiveConsole.dll
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\ref\InteractiveConsole.dll
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\InteractiveConsole.pdb
+C:\Users\User\Desktop\Cs\InteractiveConsole\obj\Debug\net5.0\InteractiveConsole.genruntimeconfig.cache
